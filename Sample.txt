@@ -3,3 +3,5 @@ This is a sample file
 git is a dcvs
 
 github is a repository
+
+gitBash is a command prompt tool for interaction between gitHub and git
